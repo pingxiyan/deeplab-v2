@@ -152,3 +152,13 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
+
+## QA
+
+1. [ERROR]: deeplab-v2/src/caffe/util/matio_io.cpp:10:19: fatal error: matio.h: No such file or directory
+	You don't install matio lib
+
+
+
+
+
